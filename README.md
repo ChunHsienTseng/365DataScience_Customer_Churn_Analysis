@@ -8,14 +8,14 @@ Providing comprehensive insights into the customer churn dynamics and revenue tr
 
 ### Revenue by Country
 
-Visualizations:
+ - Visualizations:
 
 Worldmap
 Displays the sum of revenue by country, with a monthly parameter.
 Spreadsheet
 Lists the top 10 countries by revenue, along with average purchase value and percentage by country.
 
-Insights:
+ - Insights:
 
 English-speaking countries significantly contribute to revenue.
 The United States is the primary revenue source, accounting for 48% of the total.
