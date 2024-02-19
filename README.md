@@ -36,24 +36,24 @@ Revenue tends to be higher in odd-numbered months due to promotional activities.
 Product refund rates are generally below 10%.
 New subscriptions are a major source of monthly revenue.
 
-**Revenue Type**
+### Revenue Type
 
-Visualizations:
+**Visualizations:**
 
 Pie Chart
 Represents the percentage of revenue types monthly.
 Line & Bar Chart
 Demonstrates the percentage of revenue types with filters for subscription type and refund type.
 
-Insights:
+**Insights:**
 
 Revenue tends to be higher in odd-numbered months due to promotional activities.
 Product refund rates are generally below 10%.
 New subscriptions are a major source of monthly revenue.
 
-**Resurrection & Upgrade**
+### Resurrection & Upgrade
 
-Visualizations:
+**Visualizations:**
 
 KPIs
 Tracks total resurrected customers and average resurrected days, with monthly filtering.
@@ -62,35 +62,35 @@ Displays counts of resurrected customers by original and resurrected plans, with
 KPIs & Circle Chart
 Monitors total upgrade customers, average upgrade revenue, and customer upgrade percentage by original and upgraded plans, monthly filtered.
 
-Insights:
+**Insights:**
 
 Annual subscriptions dominate customer resurrection, followed by monthly subscriptions.
 Customers often upgrade from monthly to annual subscriptions during renewals.
 
-**Order Frequency**
+### Order Frequency
 
-Visualizations:
+**Visualizations:**
 
 Pareto Chart
 Presents order frequency by year.
 Pareto Chart
 Breaks down order frequency by month, filterable by purchase time.
 
-Insights:
+**Insights:**
 
 Annual subscribers mostly opt for a single subscription.
 Monthly subscribers range from one to eight subscriptions, constituting over 70%.
 
-**Retention by Year**
+### Retention by Year
 
-Visualizations:
+**Visualizations:**
 
 Cohort Analysis
 Examines retention rates by year.
 Cohort Analysis
 Analyzes retention rates by month, with a monthly filter.
 
-Insights:
+**Insights:**
 
 Approximately 30-40% of annual subscribers remain subscribed for one year.
 Around 20% of annual subscribers continue for two years.
