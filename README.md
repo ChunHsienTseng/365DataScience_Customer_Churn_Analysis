@@ -12,6 +12,7 @@ Providing comprehensive insights into the customer churn dynamics and revenue tr
 
 Worldmap - 
 Displays the sum of revenue by country, with a monthly parameter.
+
 Spreadsheet - 
 Lists the top 10 countries by revenue, along with average purchase value and percentage by country.
 
