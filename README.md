@@ -110,10 +110,12 @@ Enhance Overall Customer Satisfaction:
 Prioritize initiatives to enhance overall customer satisfaction, aiming to reduce churn and subsequently boost revenue.
 
 ## Data Sources
-The visualization is based on the database provided by 365DataScience.
+ - The visualization is based on the database provided by 365DataScience.
 
 ## Screenshots
-https://imgur.com/a/sZ9yd3v
+
+- https://imgur.com/a/sZ9yd3v
 
 ## Visulization Link
-https://public.tableau.com/app/profile/chun.hsien.tseng/viz/365dsCustomerChurnAnalysis/CustomerChurnAnalysis
+
+ - https://public.tableau.com/app/profile/chun.hsien.tseng/viz/365dsCustomerChurnAnalysis/CustomerChurnAnalysis
