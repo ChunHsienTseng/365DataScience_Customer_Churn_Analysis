@@ -85,21 +85,21 @@ Providing comprehensive insights into the customer churn dynamics and revenue tr
 
 ## Conclusion and Recommendations
 
-### Implement Country-Specific Pricing Strategies:
+### Implement Country-Specific Pricing Strategies
 
-Tailor pricing strategies to each country to maximize revenue based on local market conditions.
+ - Tailor pricing strategies to each country to maximize revenue based on local market conditions.
 
-### Emphasize Continuous Expansion:
+### Emphasize Continuous Expansion
 
-Focus on continuous expansion strategies to attract new customers and broaden the platform's user base.
+ - Focus on continuous expansion strategies to attract new customers and broaden the platform's user base.
 
-### Target Promotions to English-Speaking, Tech-Oriented Countries:
+### Target Promotions to English-Speaking, Tech-Oriented Countries
 
-Direct promotional efforts towards English-speaking and tech-oriented countries to diversify customer sources.
+ - Direct promotional efforts towards English-speaking and tech-oriented countries to diversify customer sources.
 
-### Enhance Overall Customer Satisfaction:
+### Enhance Overall Customer Satisfaction
 
-Prioritize initiatives to enhance overall customer satisfaction, aiming to reduce churn and subsequently boost revenue.
+ - Prioritize initiatives to enhance overall customer satisfaction, aiming to reduce churn and subsequently boost revenue.
 
 ## Data Sources
  - The visualization is based on the database provided by 365DataScience.
