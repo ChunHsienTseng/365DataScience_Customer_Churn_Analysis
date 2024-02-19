@@ -21,16 +21,16 @@ Lists the top 10 countries by revenue, along with average purchase value and per
  - English-speaking countries significantly contribute to revenue.
  - The United States is the primary revenue source, accounting for 48% of the total.
 
-**Revenue & Churn Rate**
+### Revenue & Churn Rate
 
 **Visualizations:**
 
-Bar Chart
+ - Bar Chart
 Illustrates revenue and refunds with a monthly parameter, separated by refund type. Filters include revenue type, subscription type, and country.
-Line Chart
+ - Line Chart
 Presents churn rates by type with a monthly parameter.
 
-Insights:
+**Insights:**
 
 Revenue tends to be higher in odd-numbered months due to promotional activities.
 Product refund rates are generally below 10%.
