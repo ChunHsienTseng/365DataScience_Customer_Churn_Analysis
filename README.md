@@ -6,7 +6,7 @@ Providing comprehensive insights into the customer churn dynamics and revenue tr
 
 ## Summary
 
-## Revenue by Country
+### Revenue by Country
 
 Visualizations:
 
