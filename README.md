@@ -18,12 +18,12 @@ Lists the top 10 countries by revenue, along with average purchase value and per
 
 **Insights:**
 
-English-speaking countries significantly contribute to revenue.
-The United States is the primary revenue source, accounting for 48% of the total.
+ - English-speaking countries significantly contribute to revenue.
+ - The United States is the primary revenue source, accounting for 48% of the total.
 
 **Revenue & Churn Rate**
 
-Visualizations:
+**Visualizations:**
 
 Bar Chart
 Illustrates revenue and refunds with a monthly parameter, separated by refund type. Filters include revenue type, subscription type, and country.
