@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains Tableau dashboards providing comprehensive insights into the customer churn dynamics and revenue trends on the 365DataScience learning platform from October 2018 to November 2022.
+Providing comprehensive insights into the customer churn dynamics and revenue trends on the 365DataScience learning platform from October 2018 to November 2022.
 
 ## Summary
 
