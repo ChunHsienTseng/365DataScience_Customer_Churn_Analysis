@@ -1,4 +1,4 @@
-**Overview**
+##Overview
 
 This repository contains Tableau dashboards providing comprehensive insights into the customer churn dynamics and revenue trends on the 365DataScience learning platform from October 2018 to November 2022.
 
@@ -114,4 +114,4 @@ https://imgur.com/a/sZ9yd3v
 The visualization is based on the database provided by 365DataScience.
 
 **Visulization Link**
-[https://public.tableau.com/app/profile/chun.hsien.tseng/viz/365dsCustomerChurnAnalysis/CustomerChurnAnalysis](https://public.tableau.com/app/profile/chun.hsien.tseng/viz/365dsCustomerChurnAnalysis/CustomerChurnAnalysis)https://public.tableau.com/app/profile/chun.hsien.tseng/viz/365dsCustomerChurnAnalysis/CustomerChurnAnalysis
+https://public.tableau.com/app/profile/chun.hsien.tseng/viz/365dsCustomerChurnAnalysis/CustomerChurnAnalysis
